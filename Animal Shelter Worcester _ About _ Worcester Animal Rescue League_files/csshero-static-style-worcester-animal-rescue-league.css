@@ -1,0 +1,231 @@
+html > body > #page-container > #et-boc > header > div > div:nth-child(1) > div > div:nth-child(2) > div > div > p {
+  font-size: 16px;
+}
+@media screen and (max-width: 1024px) {
+  html > body > #page-container > #et-boc > header > div > div:nth-child(1) > div > div:nth-child(2) > div > div > p > a:nth-child(1) {
+    font-size: 13px;
+  }
+  html > body > #page-container > #et-boc > header > div > div:nth-child(1) > div > div:nth-child(2) > div > div > p > a:nth-child(2) {
+    font-size: 13px;
+  }
+  html > body > #page-container > #et-boc > header > div > div:nth-child(2) > div > div:nth-child(2) > div > a {
+    font-size: 16px!important;
+    padding-right: 30px!important;
+    padding-left: 30px!important;
+  }
+  html > body > #page-container > #et-boc > header > div:nth-child(1) > div:nth-child(2) > div > div:nth-child(1) > div > div > div:nth-child(2) > div:nth-child(1) > nav > #menu-primary-menu > li:nth-child(1) > a {
+    font-size: 20px;
+  }
+  html > body > #page-container > #et-boc > header > div:nth-child(1) > div:nth-child(2) > div > div:nth-child(1) > div > div > div:nth-child(2) > div:nth-child(1) > nav > #menu-primary-menu > li:nth-child(2) > a {
+    font-size: 20px;
+  }
+  html > body > #page-container > #et-boc > header > div:nth-child(1) > div:nth-child(2) > div > div:nth-child(1) > div > div > div:nth-child(2) > div:nth-child(1) > nav > #menu-primary-menu > li:nth-child(3) > a {
+    font-size: 20px;
+  }
+  html > body > #page-container > #et-boc > header > div:nth-child(1) > div:nth-child(2) > div > div:nth-child(1) > div > div > div:nth-child(2) > div:nth-child(1) > nav > #menu-primary-menu > li:nth-child(4) > a {
+    font-size: 20px;
+  }
+  html > body > #page-container > #et-boc > header > div > div:nth-child(2) > div > div:nth-child(1) > div > div > div:nth-child(2) > div:nth-child(1) > nav > #menu-primary-menu > li:nth-child(5) > a {
+    font-size: 20px;
+  }
+  html > body > #page-container > #et-boc > header > div > div:nth-child(2) > div > div:nth-child(1) > div > div > div:nth-child(2) > div:nth-child(1) > nav > #menu-primary-menu > li:nth-child(6) > a {
+    font-size: 20px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-313 > div > div > div > div:nth-child(3) > div:nth-child(2) > div:nth-child(1) > #cta-blue {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-313 > div > div > div > div:nth-child(3) > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-313 > div > div > div > div:nth-child(3) > div:nth-child(2) > div:nth-child(3) > #more-ways-to-help {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-313 > div > div > div > div:nth-child(3) > div:nth-child(2) > div:nth-child(3) > #more-ways-to-help > div:nth-child(2) > a {
+    padding-top: 5.4px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-13 > div > div > div > div:nth-child(5) > div:nth-child(2) > div:nth-child(3) > div:nth-child(2) > div:nth-child(1) > div > p {
+    font-size: 16px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-13 > div > div > div > div:nth-child(5) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-13 > div > div > div > div:nth-child(5) > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-13 > div > div > div > div:nth-child(5) > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div > p {
+    font-size: 16px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-13 > div > div > div > div:nth-child(5) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div > p {
+    font-size: 16px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div {
+    padding-right: 25px!important;
+    padding-left: 25px!important;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) {
+    padding-right: 25px!important;
+    padding-left: 25px!important;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) {
+    padding-right: 25px!important;
+    padding-left: 25px!important;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-13 > div > div > div > div:nth-child(10) > div:nth-child(3) > div > div > a {
+    margin-top: 40px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-78 > div > div > div > div:nth-child(3) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-78 > div > div > div > div:nth-child(3) > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-78 > div > div > div > div:nth-child(3) > div:nth-child(2) > div:nth-child(3) > div:nth-child(2) {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-78 > div > div > div > div:nth-child(3) > div:nth-child(2) > div:nth-child(3) > div:nth-child(2) > div:nth-child(2) > a {
+    font-size: 17px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-80 > div > div > div > div:nth-child(3) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > a {
+    padding-top: 30px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-80 > div > div > div > div:nth-child(3) > div:nth-child(2) > div:nth-child(3) > div:nth-child(2) > div:nth-child(2) > a {
+    padding-top: 30px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-80 > div > div > div > div:nth-child(3) > div:nth-child(3) > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > a {
+    padding-top: 30px;
+  }
+  html > body > #page-container > #et-boc > header > div > div:nth-child(1) > div > div:nth-child(2) > div > div > p {
+    font-size: 14px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div > div:nth-child(2) > div > p {
+    font-size: 20px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div > div > div:nth-child(2) > div {
+    font-size: 20px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div > div:nth-child(2) > div > p > span {
+    font-size: 20px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(5) > div > div:nth-child(1) > div > div > p {
+    font-size: 11px;
+  }
+  html > body > #page-container > #et-boc > header > div > div:nth-child(2) > div > div:nth-child(1) > div > div > div:nth-child(2) > div:nth-child(1) > nav > #menu-primary-menu > li:nth-child(7) > a {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 768px) {
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-313 > div > div > div > div:nth-child(3) > div:nth-child(2) > div:nth-child(1) > #cta-blue > div:nth-child(1) > h2 {
+    font-size: 24px!important;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-80 > div > div > div > div:nth-child(3) > div:nth-child(3) > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > a {
+    padding-top: 5.4px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-80 > div > div > div > div:nth-child(3) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > a {
+    padding-top: 5.4px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-80 > div > div > div > div:nth-child(3) > div:nth-child(2) > div:nth-child(3) > div:nth-child(2) > div:nth-child(2) > a {
+    padding-top: 5.4px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(5) > div > div:nth-child(1) > div > div > p {
+    font-size: 14px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(5) > div > div:nth-child(2) > div > div > p > a:nth-child(1) {
+    font-size: 14px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(5) > div > div:nth-child(2) > div > div > p > a:nth-child(2) {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 568px) {
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(5) > div > div:nth-child(2) > div > div > p > a:nth-child(2) {
+    font-size: 12px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(5) > div > div:nth-child(1) > div > div > p {
+    font-size: 12px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(5) > div > div:nth-child(2) > div > div > p > a:nth-child(1) {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 320px) {
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(3) > div > div > div:nth-child(3) > div > h1 {
+    font-size: 26px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(3) > div > div > div:nth-child(2) > div > h2 {
+    font-size: 12px;
+  }
+}
+@media screen and (min-width: 1271px) and (max-width: 1365px) {
+  html > body > #page-container > #et-boc > header > div > div:nth-child(2) > div > div:nth-child(2) > div > a {
+    font-size: 18px!important;
+    padding-right: 40px!important;
+    padding-left: 40px!important;
+  }
+}
+@media screen and (min-width: 1881px) and (max-width: 2560px) {
+  html > body > #page-container > #et-boc > #et-main-area > #main-content > #post-313 > div > div > div > div:nth-child(3) > div:nth-child(2) > div:nth-child(1) > #cta-blue > div:nth-child(2) > a {
+    padding-top: 30px;
+  }
+}
+@media screen and (max-width: 1366px) {
+  html > body > #page-container > #et-boc > header > div > div:nth-child(1) > div > div:nth-child(2) > div > div > p {
+    font-size: 13px!important;
+  }
+  html > body > #page-container > #et-boc > header > div > div:nth-child(2) > div > div:nth-child(2) > div > a {
+    font-size: 23px;
+  }
+}
+@media screen and (min-width: 1025px) and (max-width: 1270px) {
+  html > body > #page-container > #et-boc > header > div > div:nth-child(2) > div > div:nth-child(2) > div > a {
+    font-size: 17px!important;
+    padding-right: 40px!important;
+    padding-left: 40px!important;
+  }
+  html > body > #page-container > #et-boc > header > div > div:nth-child(1) > div > div:nth-child(2) > div > div > p > a:nth-child(2) {
+    font-size: 14px;
+  }
+  html > body > #page-container > #et-boc > header > div > div:nth-child(1) > div > div:nth-child(2) > div > div > p > a:nth-child(1) {
+    font-size: 14px;
+  }
+  html > body > #page-container > #et-boc > header > div > div:nth-child(1) > div > div:nth-child(2) > div > div > p {
+    font-size: 14px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div > div > div:nth-child(2) > div {
+    font-size: 22px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div > div:nth-child(2) > div > p > span {
+    font-size: 22px;
+  }
+  html > body > #page-container > #et-boc > #et-main-area > footer > div > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div > div:nth-child(2) > div > p {
+    font-size: 22px;
+  }
+  html > body > #page-container > #et-boc > header > div:nth-child(1) > div:nth-child(2) > div > div:nth-child(1) > div > div > div:nth-child(2) > div:nth-child(1) > nav > #menu-primary-menu > li:nth-child(1) > a {
+    font-size: 20px;
+  }
+  html > body > #page-container > #et-boc > header > div:nth-child(1) > div:nth-child(2) > div > div:nth-child(1) > div > div > div:nth-child(2) > div:nth-child(1) > nav > #menu-primary-menu > li:nth-child(2) > a {
+    font-size: 20px;
+  }
+  html > body > #page-container > #et-boc > header > div:nth-child(1) > div:nth-child(2) > div > div:nth-child(1) > div > div > div:nth-child(2) > div:nth-child(1) > nav > #menu-primary-menu > li:nth-child(3) > a {
+    font-size: 20px;
+  }
+  html > body > #page-container > #et-boc > header > div:nth-child(1) > div:nth-child(2) > div > div:nth-child(1) > div > div > div:nth-child(2) > div:nth-child(1) > nav > #menu-primary-menu > li:nth-child(4) > a {
+    font-size: 20px;
+  }
+  html > body > #page-container > #et-boc > header > div > div:nth-child(2) > div > div:nth-child(1) > div > div > div:nth-child(2) > div:nth-child(1) > nav > #menu-primary-menu > li:nth-child(5) > a {
+    font-size: 20px;
+  }
+  html > body > #page-container > #et-boc > header > div > div:nth-child(2) > div > div:nth-child(1) > div > div > div:nth-child(2) > div:nth-child(1) > nav > #menu-primary-menu > li:nth-child(6) > a {
+    font-size: 20px;
+  }
+  html > body > #page-container > #et-boc > header > div > div:nth-child(2) > div > div:nth-child(1) > div > div > div:nth-child(2) > div:nth-child(1) > nav > #menu-primary-menu > li:nth-child(7) > a {
+    font-size: 20px;
+  }
+}
